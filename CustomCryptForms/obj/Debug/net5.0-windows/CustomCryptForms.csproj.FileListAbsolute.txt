@@ -1,0 +1,12 @@
+K:\projects\Course\CustomCryptForms\bin\Debug\net5.0-windows\CustomCryptForms.deps.json
+K:\projects\Course\CustomCryptForms\bin\Debug\net5.0-windows\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\bin\Debug\net5.0-windows\ref\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\bin\Debug\net5.0-windows\CustomCryptForms.pdb
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.GeneratedMSBuildEditorConfig.editorconfig
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.AssemblyInfoInputs.cache
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.AssemblyInfo.cs
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.csproj.CoreCompileInputs.cache
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\ref\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.pdb
+K:\projects\Course\CustomCryptForms\obj\Debug\net5.0-windows\CustomCryptForms.csprojAssemblyReference.cache

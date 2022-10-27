@@ -1,0 +1,9 @@
+K:\projects\Course\CustomCryptForms\bin\Debug\netcoreapp3.1\CustomCryptForms.deps.json
+K:\projects\Course\CustomCryptForms\bin\Debug\netcoreapp3.1\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\bin\Debug\netcoreapp3.1\CustomCryptForms.pdb
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.csprojAssemblyReference.cache
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.AssemblyInfoInputs.cache
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.AssemblyInfo.cs
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.csproj.CoreCompileInputs.cache
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.dll
+K:\projects\Course\CustomCryptForms\obj\Debug\netcoreapp3.1\CustomCryptForms.pdb
